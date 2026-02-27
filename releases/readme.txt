@@ -1,1 +1,6 @@
-placeholder readme
+_____      
+  /     \     
+ |  O O  |    
+  \  ^  /     
+   |||||      
+L U M E N
